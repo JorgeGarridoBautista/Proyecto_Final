@@ -1,0 +1,70 @@
+%PREÁMBULO
+\documentclass[a4paper]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref} %Permite poner links
+\parindent=0.5cm %Modificar el tamaño de la sangría
+\parskip=0.5cm %Modificar el espaciado entre párrafos
+\usepackage{float} %Movimiento de tablas y gráficos
+\usepackage[lmargin=2.5cm,rmargin=2.5cm,top=2.5cm,bottom=2.5cm]{geometry} %Márgenes
+\usepackage{natbib} %Paquete para que en el apartado de referencias no aparezcan los nombres por duplicado.
+
+%1.Encabezado
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} %Elimina el texto predeterminado del encabezado fancy
+\fancyhead[C]{El camarón \textit{Palaemon serratus}} %Texto del encabezado
+\renewcommand{\headrulewidth}{0.25pt} %Grosor de la línea
+
+%2.Pie de página
+\fancyfoot{} %Elimina el texto predeterminado del pie de página
+\fancyfoot[R]{\thepage} %Comando para la numeración de página
+\fancyfoot[L]{Jorge Garrido Bautista}
+
+%COMIENZO DEL DOCUMENTO
+\begin{document}
+
+%Página inicial para el título del artículo y el autor
+\begin{titlepage}
+\begin{center}
+\vspace*{5\baselineskip} %Espacio vertical
+{\LARGE \textbf{Biología del camarón \textit{Palaemon serratus}\\(Pennant, 1777)}}
+\vspace*{5\baselineskip}
+\vfill %Este comando rellena con huecos vacíos el espacio entre la imagen y el último texto
+{\large JORGE GARRIDO BAUTISTA}\\
+\vspace*{4\baselineskip}
+Curso de LaTeX y Git. Darwin Eventur\\
+\textit{Texto adaptado a partir de mi TFM}
+\end{center}
+\end{titlepage}
+
+%Segunda página inicial para el abstracts
+\begin{titlepage}
+\begin{abstract}
+Repositorio:\\
+\url{https://github.com/JorgeGarridoBautista/Proyecto_Final}\\
+\\El camarón \textit{Palaemon serratus} (Pennant, 1777) es un crustáceo decápodo de la familia Palaemonidae que se distribuye por las costas del este del océano Atlántico y mar Mediterráneo. Su rápido desarrollo y su larga secuencia de estadios larvarios son características de interés para el estudio de los genes que intervienen, de forma directa o indirecta, en los procesos de muda o ecdisis y en la determinación o diferenciación sexual. En el presente artículo se hablará brevemente de todos estos aspectos.\\
+\\Palabras clave: muda, ecdisis, biología básica, camarón, \textit{Palaemon serratus}
+\end{abstract}
+\end{titlepage}
+
+%Comienzo del CUERPO DEL ARTÍCULO
+\begin{titlepage}
+\tableofcontents
+\end{titlepage}
+
+\section{Biología básica de \textit{Palaemon serratus}}
+\subsection{Morfología y reproducción}
+El camarón \textit{Palaemon serratus} (Pennant, 1777) es un crustáceo decápodo de la familia Palaemonidae que se caracteriza por su color casi transparente interrumpido por un pereion de líneas longitudinales rojizas que empiezan en el rostro y terminan en el borde posterior. Además de esto, también se distingue de otras especies coetáneas por la presencia de anillas amarillas y rojas en las patas \citep{Zariquiey1968}.\\
+Blaf fdfs
+ 
+\subsection{Desarrollo larvario}
+
+\section{La muda o ecdisis de \textit{Palaemon serratus}}
+
+\section{Bibliografía}
+\bibliography{Biblio}
+\bibliographystyle{apalike} %Bibliografía estilo APA. Cuando se introducen las referencias bibliográficas (.bib) hay que actualizar varias veces para que salga el formato correcto y todas las citas. Se hace presionando F6 y F11 varias veces seguidas.
+
+\end{document}
