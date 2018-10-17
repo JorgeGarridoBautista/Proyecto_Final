@@ -9,6 +9,7 @@
 \usepackage{float} %Movimiento de tablas y gráficos
 \usepackage[lmargin=2.5cm,rmargin=2.5cm,top=2.5cm,bottom=2.5cm]{geometry} %Márgenes
 \usepackage{natbib} %Paquete para que en el apartado de referencias no aparezcan los nombres por duplicado.
+\usepackage{adjustbox}
 
 %1.Encabezado
 \usepackage{fancyhdr}
@@ -32,8 +33,7 @@
 {\LARGE \textbf{Biología del camarón \textit{Palaemon serratus}\\(Pennant, 1777)}}
 \vspace*{5\baselineskip}
 \vfill %Este comando rellena con huecos vacíos el espacio entre la imagen y el último texto
-{\large JORGE GARRIDO BAUTISTA}\\
-\vspace*{4\baselineskip}
+{\large JORGE GARRIDO BAUTISTA}\\[1cm]
 Curso de LaTeX y Git. Darwin Eventur\\
 \textit{Texto adaptado a partir de mi TFM}
 \end{center}
@@ -56,10 +56,36 @@ Repositorio:\\
 
 \section{Biología básica de \textit{Palaemon serratus}}
 \subsection{Morfología y reproducción}
-El camarón \textit{Palaemon serratus} (Pennant, 1777) es un crustáceo decápodo de la familia Palaemonidae que se caracteriza por su color casi transparente interrumpido por un pereion de líneas longitudinales rojizas que empiezan en el rostro y terminan en el borde posterior. Además de esto, también se distingue de otras especies coetáneas por la presencia de anillas amarillas y rojas en las patas \citep{Zariquiey1968}.\\
-Blaf fdfs
- 
+El camarón \textit{Palaemon serratus} (Pennant, 1777) es un crustáceo decápodo de la familia Palaemonidae que se caracteriza por su color casi transparente interrumpido por un pereion de líneas longitudinales rojizas que empiezan en el rostro y terminan en el borde posterior. Además de esto, también se distingue de otras especies coetáneas por la presencia de anillas amarillas y rojas en las patas \citep{Zariquiey1968}. Sin embargo, se ha observado que estas líneas rojas abdominales pueden estar ausentes en individuos que habitan aguas turbias \citep{Gonzalez2006}. El nombre de \textit{Palaemon serratus} deriva de su rostrum serrado: se bifurca en su punta y posee un número determinado de dientes en su parte dorsal y ventral \citep{Gonzalez2006}. \textit{P. serratus} se distribuye por el océano Atlántico Oriental, desde Cabo Blanco en la costa de Mauritania hasta Dinamarca en el norte de Europa; el Atlántico central (islas Azores) y el mar Mediterráneo, desde el estrecho de Gibraltar hasta las costas de Egipto e Israel \citep{Zariquiey1968, Felicio2002}.\par Es una especie bentónica que habita las zonas intermareales ---llegando hasta los 50 metros de profundidad--- de fondos rocosos o arenosos cubiertos de macroalgas y fanerógamas marinas \citep{Felicio2002}. Es una especie omnívora \citep{Forster1951} y presenta cierto dimorfismo sexual, ya que las hembras son más grandes y pesadas que los machos \citep{Guerao1995}. Es una especie que posee fecundación interna y un ciclo de vida corto: la media de edad de \textit{P.serratus} son 3 años \citep{Felicio2002}. La época reproductora es entre enero y mayo, aunque en las costas del sur de España se alarga de noviembre a agosto debido a una mayor temperatura \citep{Rodriguez1981, Figueras1986, Felicio2002}. En época reproductora los adultos migran desde aguas continentales a áreas costeras para emparejarse y reproducirse \citep{Gonzalez2014}.
+
 \subsection{Desarrollo larvario}
+El desarrollo larvario de \textit{P. serratus} ha sido estudiado por varios autores con el fin de identificar sus diferentes estadios larvarios. Los estadios larvarios de esta especie, y en general de los carídeos, se denominan zoeas. Las zoeas se caracterizan por el uso de apéndices torácicos para nadar llamados exópodos. Hasta la fecha no se han establecido los estadios de zoea de \textit{P. serrstus} \citep{Gonzalez2001}, pero muchos autores coinciden en que \textit{P. serratus} posee entre siete y nueve estadios larvarios planctónicos diferentes (tabla 1) \citep{Fincham1986, Ramonell1987}. Tanto la temperatura como la salinidad juegan un papel importante en el desarrollo de las zoeas ya que afectan a su tasa metabólica y crecimiento \citep{Gonzalez2014}. La muda de las zoeas ocurre en la columna de agua de las zonas litorales \citep{Forster1951} y la larga secuencia de estadios larvarios permite una dispersión amplia y eficaz de \textit{P. serratus} \citep{Fincham1986}.\par Los individuos que alcanzan el último estadio de zoea sufren metamorfosis a los 20-30 días para convertirse en decapoditos \citep{Bellon1978}. El estadio de decapodito es el último estadio larvario que precede al primer estadio juvenil \citep{Anger2001} y se caracteriza por la transición de la función natatoria de los pereiópodos en zoeas a los pleópodos en decapoditos. El decapodito es por tanto una forma transitoria del modo de vida planctónico al bentónico. Tras el estadio de decapodito, el organismo entra en una fase transitoria donde los caracteres larvarios desaparecen gradualmente y los caracteres juveniles comienzan a aparecer tras varias mudas \citep{Anger2001}. Durante el desarrollo larvario y el crecimiento de juveniles y adultos se producen varios cambios morfológicos y fisiológicos. En zoeas el crecimiento da lugar a la aparición de segmentos posteriores al caparazón con ocho pares de apéndices natatorios; en juveniles las branquias adquieren función osmorreguladora; y el tracto digestivo y aparato mandibular sufren cambios morfológicos \citep{Factor1981, Bouaricha1994, Ruppert1996}.
+
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{|l|c|c|}
+\hline 
+Especie & Estadios larvarios & Referencia\\
+\hline
+\textit{Leander (Palaemon) serratus} & Z1-Z9 & Sollaud (1912)\\
+\hline
+\textit{Leander (Palaemon) serratus} & Z1-Z9 & Sollaud (1923)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z8 & Carli (1978)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z9 & Fincham (1983)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z9 & Fincham y Figueras (1986)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z6 & Yagi (1986)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z7 & Ramonell (1987)\\
+\hline
+\textit{Palaemon serratus} & Z1-Z8 & Barnich (1996)\\
+\hline
+\end{tabular}
+\end{adjustbox}
+
+\textbf{Tabla 1.} Estadios de zoea de \textit{Palaemon serratus} según varios autores. Nota: los distintos estadios de zoea se represetan como Z. Adaptado a partir de \citep{Gonzalez2001}.\par
 
 \section{La muda o ecdisis de \textit{Palaemon serratus}}
 

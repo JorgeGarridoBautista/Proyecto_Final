@@ -2,5 +2,5 @@
 \contentsline {section}{\numberline {1}Biolog\IeC {\'\i }a b\IeC {\'a}sica de \textit {Palaemon serratus}}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Morfolog\IeC {\'\i }a y reproducci\IeC {\'o}n}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Desarrollo larvario}{1}{subsection.1.2}
-\contentsline {section}{\numberline {2}La muda o ecdisis de \textit {Palaemon serratus}}{1}{section.2}
-\contentsline {section}{\numberline {3}Bibliograf\IeC {\'\i }a}{1}{section.3}
+\contentsline {section}{\numberline {2}La muda o ecdisis de \textit {Palaemon serratus}}{2}{section.2}
+\contentsline {section}{\numberline {3}Bibliograf\IeC {\'\i }a}{2}{section.3}

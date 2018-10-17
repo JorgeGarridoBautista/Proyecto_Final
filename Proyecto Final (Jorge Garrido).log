@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.4)  17 OCT 2018 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.4)  17 OCT 2018 19:51
 entering extended mode
 **"./Proyecto Final (Jorge Garrido).tex"
 ("Proyecto Final (Jorge Garrido).tex"
@@ -541,7 +541,52 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count103
 )
-("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\fancyhdr\fancyhdr.sty"
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\generic\xkeyval\xkeyval.tex"
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count104
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen118
+\tc@lly=\dimen119
+\tc@urx=\dimen120
+\tc@ury=\dimen121
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen122
+\adjbox@Height=\dimen123
+\adjbox@Depth=\dimen124
+\adjbox@Totalheight=\dimen125
+ ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count105
+) ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count106
+\@vwid@loff=\dimen126
+\@vwid@roff=\dimen127
+)) ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip46
@@ -555,41 +600,41 @@ s
 \f@nch@O@orf=\skip54
 )
 ("Proyecto Final (Jorge Garrido).aux"
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = `"Proyecto Final (Jorge Garrido).aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
 
 ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen118
-\scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen119
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count107
+\scratchdimen=\dimen128
+\scratchbox=\box30
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen129
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks24
 )
 ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\oberdiek\epstopdf-base.sty
 "
@@ -604,8 +649,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 26.
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 27.
 
 ("D:\Programas\ProTeXt\MiKTeX (compilador)\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -614,11 +659,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count113
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
  ("Proyecto Final (Jorge Garrido).out")
 ("Proyecto Final (Jorge Garrido).out")
 \@outlinefile=\write3
@@ -795,93 +840,145 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 58.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 66.
- ("Proyecto Final (Jorge Garrido).bbl")
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 70.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 88.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{document}
-                    [1]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
- ("Proyecto Final (Jorge Garrido).aux"
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+l.88 \textbf{Tabla 1.}
+                       Estadios de zoea de \textit{Palaemon serratus} según...
+[1]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 91.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 93.
+ ("Proyecto Final (Jorge Garrido).bbl"
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 76.
+ [2])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 97.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 97.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+
+("Proyecto Final (Jorge Garrido).aux"
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `"Proyecto Final (Jorge Garrido)".out' has no
 t changed.
 (rerunfilecheck)             Checksum: 85EA2BB0E9A2DC74FBAF528EF9BEFF39;353.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 7147 strings out of 493308
- 102823 string characters out of 3138796
- 201280 words of memory out of 3000000
- 10615 multiletter control sequences out of 15000+200000
+ 7945 strings out of 493308
+ 116155 string characters out of 3138796
+ 225615 words of memory out of 3000000
+ 11361 multiletter control sequences out of 15000+200000
  9830 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,43p,584b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,43p,2202b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfon
@@ -893,10 +990,10 @@ type1/public/amsfonts/cm/cmr9.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador
 )/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/Programas/ProTeXt/MiKTeX (compil
 ador)/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "Proyecto Final (Jorge Garrido).pdf" (4 pages, 136040 bytes).
+Output written on "Proyecto Final (Jorge Garrido).pdf" (6 pages, 165786 bytes).
 
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
