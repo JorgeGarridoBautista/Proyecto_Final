@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.4)  18 OCT 2018 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.4)  18 OCT 2018 12:46
 entering extended mode
 **"./Proyecto Final (Jorge Garrido).tex"
 ("Proyecto Final (Jorge Garrido).tex"
@@ -898,7 +898,7 @@ Package babel Info: Redefining spanish shorthand "?
 
 LaTeX Warning: File `Imagen 1 (Skinner1962).png' not found on input line 95.
 
-<Imagen 1 (Skinner1962).png, id=143, 901.86937pt x 514.92375pt>
+<Imagen 1 (Skinner1962).png, id=148, 901.86937pt x 514.92375pt>
 File: Imagen 1 (Skinner1962).png Graphic file (type png)
 <use Imagen 1 (Skinner1962).png>
 Package pdftex.def Info: Imagen 1 (Skinner1962).png  used on input line 95.
@@ -915,10 +915,6 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 101.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 101.
-
-Package natbib Warning: Citation `Wainwright1996' on page 2 undefined on input 
-line 102.
-
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand >>
@@ -957,147 +953,140 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 104.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 107.
- ("Proyecto Final (Jorge Garrido).bbl"
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 22.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 105.
  [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.22 
-      <./Imagen 1 (Skinner1962).png>]
+l.105 ...e la ingesta de agua \citep{Tom2014}.\par
+                                                   Fórmula matemática de c...
+ <./Imagen 1 (Skinner1962).png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 111.
+ ("Proyecto Final (Jorge Garrido).bbl"
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 73.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 73.
  [4])
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
+
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  ("Proyecto Final (Jorge Garrido).aux"
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
-
-
-Package rerunfilecheck Warning: File `"Proyecto Final (Jorge Garrido)".out' has
- changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Proyecto Final (Jorge Garrido)".ou
-t':
-(rerunfilecheck)             Before: 046C9B76A5B82C10A268A77D5C2E4A3F;436
-(rerunfilecheck)             After:  3B67168C10BE83C34DFE31B0D88088BE;522.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package rerunfilecheck Info: File `"Proyecto Final (Jorge Garrido)".out' has no
+t changed.
+(rerunfilecheck)             Checksum: 3B67168C10BE83C34DFE31B0D88088BE;522.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 8004 strings out of 493308
- 117117 string characters out of 3138796
- 226760 words of memory out of 3000000
- 11403 multiletter control sequences out of 15000+200000
+ 8020 strings out of 493308
+ 117409 string characters out of 3138796
+ 226893 words of memory out of 3000000
+ 11415 multiletter control sequences out of 15000+200000
  10129 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,43p,3236b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,43p,3236b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/amsfon
 ts/cm/cmbx9.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/public/am
 sfonts/cm/cmbxti10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fon
-ts/type1/public/amsfonts/cm/cmr9.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/
-fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Programas/ProTeXt/MiKTeX (compila
-dor)/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/Programas/ProTeXt/MiKTeX (com
-pilador)/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "Proyecto Final (Jorge Garrido).pdf" (8 pages, 252571 bytes).
+blic/amsfonts/cm/cmmi10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><D:/Programas/ProTeXt/MiKTeX (compilador)/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><D:/Programas/ProTeXt/MiKTeX (compilador
+)/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Programas/ProTeXt/MiKTeX (compila
+dor)/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programas/ProTeXt/MiKTeX (co
+mpilador)/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Programas/ProTeXt/MiKTe
+X (compilador)/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/Programas/ProTeXt/M
+iKTeX (compilador)/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "Proyecto Final (Jorge Garrido).pdf" (8 pages, 277066 bytes).
 
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

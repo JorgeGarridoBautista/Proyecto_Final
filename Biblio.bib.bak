@@ -266,4 +266,34 @@
   pages   = {12749-12754},
 }
 
+@Article{Puthumana2017,
+  author  = {Puthumana, J. and Lee, M. and Han, J. and Kim, H. and Hwang, D. and Jung, J. and Lee, J.},
+  title   = {Ecdysone receptor (EcR) and ultraspiracle (USP) genes from the cyclopoid copepod Paracyclopina nana: identification and expression in response to water accommodated fractions (WAFs)},
+  journal = {Comparative Biochemistry and Physiology},
+  year    = {2017},
+  volume  = {192},
+  number  = {1},
+  pages   = {7-15},
+}
+
+@Article{Qian2014,
+  author  = {Qian, Z. and He, S. and Liu, T. and Liu, Y. and Hou, F. and Liu, Q. and Wang, X. and Mi, X. and Wang, P. and Liu, X.},
+  title   = {Identification of ecdysteroid signaling late-response genes from different tissues of the Pacific white shrimp, Litopenaeus vannamei},
+  journal = {Comparative Biochemistry and Physiology},
+  year    = {2014},
+  volume  = {172},
+  number  = {Part A},
+  pages   = {10-30},
+}
+
+@Article{Dubro2005,
+  author  = {Dubrovsky, E.B.},
+  title   = {Hormonal cross talk in insect development},
+  journal = {TRENDS in Endocrinology and Metabolism},
+  year    = {2005},
+  volume  = {16},
+  number  = {1},
+  pages   = {6-11},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
