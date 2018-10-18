@@ -5,6 +5,13 @@ Anger, K. (2001).
 \newblock {\em The Biology of Decapod Crustacean larvae}.
 \newblock Number~1. Helgoland, s.n., 1 edition.
 
+\bibitem[Arlot-Bonnemains et~al., 1986]{Arlot1986}
+Arlot-Bonnemains, Y., Van-Wormhoudt, A., Favrel, P., Fouchereau-Péron, M.,
+  Milhaud, G., and Moukhtar, M. (1986).
+\newblock Calcitonin-like peptide in the shrimp palaemon serratus (crustacea,
+  decapoda) during the intermolt cycle.
+\newblock {\em Experientia}, 4(1):419--420.
+
 \bibitem[Bellon-Humbert et~al., 1978]{Bellon1978}
 Bellon-Humbert, C., Thijssen, M., and Van~Herp, F. (1978).
 \newblock Development, location and relocation of sensory and neurosecretory
@@ -19,6 +26,12 @@ Bouaricha, N., Charmantier-Daures, M., Thuet, P., Trilles, J., and Charmantier,
 \newblock Ontogeny of osmoregulatory structures in the shrimp penaeus japonicus
   (crustacea, decapoda).
 \newblock {\em The Biological Bulletin}, 186(1):29--40.
+
+\bibitem[Das et~al., 2016]{Das2016}
+Das, S., Pitts, N., Mudron, M., Durica, D., and Mykles, D. (2016).
+\newblock Transcriptome analysis of the molting gland (y-organ) from the
+  blackback land crab, gecarcinus lateralis.
+\newblock {\em Comparative Biochemistry and Physiology}, 17(1):26--40.
 
 \bibitem[Factor, 1981]{Factor1981}
 Factor, J. (1981).
@@ -79,11 +92,28 @@ Guerao, G. and Ribera, C. (1995).
   palaemonidae) in the western mediterranea.
 \newblock {\em Ophelia}, 43(3):205--213.
 
+\bibitem[Hartnoll, 2001]{Hartnoll2001}
+Hartnoll, R. (2001).
+\newblock Growth in crustacea. twenty years on.
+\newblock {\em Hydrobiologia}, 449(1):111--122.
+
+\bibitem[Hickman et~al., 2002]{Hickman2002}
+Hickman, C., Roberts, L., and Larson, A. (2002).
+\newblock {\em Principios Integrales de Zoología}.
+\newblock McGraw-Hill Interamericana, 5 edition.
+
 \bibitem[Ramonell-Goyanes, 1987]{Ramonell1987}
 Ramonell-Goyanes, R. (1987).
 \newblock Estudio morfológico de los estadios larvarios del camarón palaemon
   serratus (pennant, 1777).
 \newblock {\em Investigación Pesquera}, 51(1):545--560.
+
+\bibitem[Reeve, 1969]{Reeve1969}
+Reeve, M. (1969).
+\newblock Growth, metamorphosis and energy conversion in the larvae of the
+  prawn, palaemon serratus.
+\newblock {\em Journal of the Marine Biological Association of the United
+  Kingdom}, 49(1):77--96.
 
 \bibitem[Rodríguez, 1981]{Rodriguez1981}
 Rodríguez, A. (1981).
@@ -96,9 +126,42 @@ Ruppert, E. and Barnes, R. (1996).
 \newblock {\em Zoología de los Invertebrados}, volume~1.
 \newblock McGraw-Hill Interamericana Editores S.A., 6 edition.
 
+\bibitem[Spindler-Barth et~al., 1990]{Spindler1990}
+Spindler-Barth, M., Van~Wormhoudt, A., and Spindler, K. (1990).
+\newblock Chitinolytic enzymes in the integument and midgut-gland of the shrimp
+  palaemon serratus during the moulting cycle.
+\newblock {\em Marine Biology}, 106(1):49--52.
+
+\bibitem[Techa and Chung, 2013]{Techa2013}
+Techa, S. and Chung, J. (2013).
+\newblock Ecdysone and retinoid-x receptors of the blue crab, callinectes
+  sapidus: cloning and their expression patterns in eyestalks and y-organs
+  during the molt cycle.
+\newblock {\em Gene}, 527(1):139--153.
+
+\bibitem[Tom et~al., 2014]{Tom2014}
+Tom, M., Manfrin, C., Chung, S., Sagi, A., Gerdol, M., De~Moro, G.,
+  Pallavicini, A., and Giulianini, P. (2014).
+\newblock Expression of cytoskeletal and molt-related genes is temporally
+  scheduled in the hypodermis of the crayfish procambarus clarkii during
+  premolt.
+\newblock {\em The Journal of Experimental Biology}, 217(1):4193--4202.
+
+\bibitem[Webster and Dircksen, 1991]{Webster1991}
+Webster, S. and Dircksen, S. (1991).
+\newblock Putative molt-inhibiting hormone in larvae of the shore crab carcinus
+  maenas l.: an inmunocytochemical approach.
+\newblock {\em The Biological Bulletin}, 180(1):65--71.
+
 \bibitem[Zariquiey-Álvarez, 1968]{Zariquiey1968}
 Zariquiey-Álvarez, R. (1968).
 \newblock {\em Crustáceos Decápodos Ibéricos}, volume~32.
 \newblock Investigación Pesquera.
+
+\bibitem[Zou and Bonvillain, 2004]{Zou2004}
+Zou, E. and Bonvillain, R. (2004).
+\newblock Chitinase activity in the epidermis of the fiddler crab, uca
+  pugilator, as an in vivo screen for molt-interfering xenobiotics.
+\newblock {\em Comparative Biochemistry and Physiology}, 139(4):225--230.
 
 \end{thebibliography}

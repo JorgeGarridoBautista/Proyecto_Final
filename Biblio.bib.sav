@@ -154,7 +154,116 @@
   year    = {1994},
   volume  = {186},
   number  = {1},
-  pages   = {2},
+  pages   = {29-40},
+}
+
+@Article{Reeve1969,
+  author  = {Reeve, M.},
+  title   = {Growth, metamorphosis and energy conversion in the larvae of the prawn, Palaemon serratus},
+  journal = {Journal of the Marine Biological Association of the United Kingdom},
+  year    = {1969},
+  volume  = {49},
+  number  = {1},
+  pages   = {77-96},
+}
+
+@Article{Arlot1986,
+  author  = {Arlot-Bonnemains, Y. and Van-Wormhoudt, A. and Favrel, P. and Fouchereau-Péron, M. and Milhaud, G. and Moukhtar, M.S.},
+  title   = {Calcitonin-like peptide in the shrimp Palaemon serratus (Crustacea, Decapoda) during the intermolt cycle},
+  journal = {Experientia},
+  year    = {1986},
+  volume  = {4},
+  number  = {1},
+  pages   = {419-420},
+}
+
+@Article{Tom2014,
+  author  = {Tom, M. and Manfrin, C. and Chung, S.J. and Sagi, A. and Gerdol, M. and De Moro, G. and Pallavicini, A. and Giulianini, P.G.},
+  title   = {Expression of cytoskeletal and molt-related genes is temporally scheduled in the hypodermis of the crayfish Procambarus clarkii during premolt},
+  journal = {The Journal of Experimental Biology},
+  year    = {2014},
+  volume  = {217},
+  number  = {1},
+  pages   = {4193-4202},
+}
+
+@Article{Spindler1990,
+  author  = {Spindler-Barth, M. and Van Wormhoudt, A. and Spindler, K.},
+  title   = {Chitinolytic enzymes in the integument and midgut-gland of the shrimp Palaemon serratus during the moulting cycle},
+  journal = {Marine Biology},
+  year    = {1990},
+  volume  = {106},
+  number  = {1},
+  pages   = {49-52},
+}
+
+@Book{Hickman2002,
+  title     = {Principios Integrales de Zoología},
+  publisher = {McGraw-Hill Interamericana},
+  year      = {2002},
+  author    = {Hickman, C.P. and Roberts, L.S. and Larson, A.},
+  editor    = {Hickman, C.P. and Roberts, L.S. and Larson, A.},
+  edition   = {5},
+}
+
+@Article{Techa2013,
+  author  = {Techa, S. and Chung, J.S.},
+  title   = {Ecdysone and retinoid-X receptors of the blue crab, Callinectes sapidus: cloning and their expression patterns in eyestalks and Y-organs during the molt cycle},
+  journal = {Gene},
+  year    = {2013},
+  volume  = {527},
+  number  = {1},
+  pages   = {139-153},
+}
+
+@Article{Webster1991,
+  author  = {Webster, S. and Dircksen, S.},
+  title   = {Putative molt-inhibiting hormone in larvae of the Shore Crab Carcinus maenas L.: an inmunocytochemical approach},
+  journal = {The Biological Bulletin},
+  year    = {1991},
+  volume  = {180},
+  number  = {1},
+  pages   = {65-71},
+}
+
+@Article{Hartnoll2001,
+  author  = {Hartnoll, R.G.},
+  title   = {Growth in Crustacea. Twenty years on},
+  journal = {Hydrobiologia},
+  year    = {2001},
+  volume  = {449},
+  number  = {1},
+  pages   = {111-122},
+}
+
+@Article{Das2016,
+  author  = {Das, S. and Pitts, N.L. and Mudron, M.R. and Durica, D.S. and Mykles, D.L.},
+  title   = {Transcriptome analysis of the molting gland (Y-organ) from the blackback land crab, Gecarcinus lateralis},
+  journal = {Comparative Biochemistry and Physiology},
+  year    = {2016},
+  volume  = {17},
+  number  = {1},
+  pages   = {26-40},
+}
+
+@Article{Zou2004,
+  author  = {Zou, E. and Bonvillain, R.},
+  title   = {Chitinase activity in the epidermis of the fiddler crab, Uca pugilator, as an in vivo screen for molt-interfering xenobiotics},
+  journal = {Comparative Biochemistry and Physiology},
+  year    = {2004},
+  volume  = {139},
+  number  = {4},
+  pages   = {225-230},
+}
+
+@Article{Wainwright1996,
+  author  = {Wainwright, G. and Webster, S.G. and Wilkinson, M.C. and Chung, J.S. and Rees, H.H.},
+  title   = {Structure and significance of mandibular organ-inhibiting hormone in the Crab, Cancer pagurus},
+  journal = {The Journal of Biological Chemistry},
+  year    = {1996},
+  volume  = {271},
+  number  = {22},
+  pages   = {1},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
